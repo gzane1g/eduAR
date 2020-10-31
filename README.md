@@ -11,7 +11,7 @@
 ## Model 1 : Steam Engine
 <img src="https://user-images.githubusercontent.com/31439780/64071350-19b58d00-cc96-11e9-92ed-90760b77f2ca.jpeg" width="400" />
 
-![WhatsApp Image 2019-09-01 at 8 55 27 AM](https://user-images.githubusercontent.com/31439780/64071357-48cbfe80-cc96-11e9-87b8-89cd48650e8f.jpeg)
+<img src="https://user-images.githubusercontent.com/31439780/64071357-48cbfe80-cc96-11e9-87b8-89cd48650e8f.jpeg" width="400" />
 
 ## Model 2 : Brain
 ![WhatsApp Image 2019-09-01 at 8 18 28 AM(4)](https://user-images.githubusercontent.com/31439780/64071329-a744ad00-cc95-11e9-860d-9574130ad189.jpeg)
