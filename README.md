@@ -22,4 +22,4 @@
 ## Model 4 : Skull
 ![WhatsApp Image 2019-09-01 at 8 18 28 AM(2)](https://user-images.githubusercontent.com/31439780/64071364-7022cb80-cc96-11e9-8b7c-042f6675f211.jpeg)
 
-![WhatsApp Image 2019-09-01 at 8 18 28 AM(3)](https://user-images.githubusercontent.com/31439780/64071331-a7dd4380-cc95-11e9-82af-b2aa36009ba7.jpeg) 
+<img src="https://user-images.githubusercontent.com/31439780/64071331-a7dd4380-cc95-11e9-82af-b2aa36009ba7.jpeg)" width = "400" />
