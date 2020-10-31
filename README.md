@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/31439780/64071357-48cbfe80-cc96-11e9-87b8-89cd48650e8f.jpeg" width="400" />
 
 ## Model 2 : Brain
-![WhatsApp Image 2019-09-01 at 8 18 28 AM(4)](https://user-images.githubusercontent.com/31439780/64071329-a744ad00-cc95-11e9-860d-9574130ad189.jpeg)
+<img src="https://user-images.githubusercontent.com/31439780/64071329-a744ad00-cc95-11e9-860d-9574130ad189.jpeg" width ="400" />
 
 ## Model 3 : Heart
 <img src="https://user-images.githubusercontent.com/31439780/64071330-a744ad00-cc95-11e9-9826-fd9248ff14f0.jpeg" width="400" />
